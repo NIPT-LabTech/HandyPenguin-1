@@ -14,7 +14,7 @@ main_template={
 
 sample_template={
       "name": "SampleName",
-      "application": "RMLP05R800",
+      "application": "RMLNPTS125",
       "data_analysis": "fluffy",
       "data_delivery": "statina",
       "comment": "",
